@@ -1,0 +1,9 @@
+*.cpython
+*.log
+*.pot
+*.pyc
+__pycache__
+.dbdata
+venv
+migrations
+db.sqlite3
